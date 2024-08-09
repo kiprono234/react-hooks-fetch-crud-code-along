@@ -35,6 +35,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "   Kevin Kiprono",
+      "category": "Dairy",
+      "IsInCart": false,
+      "id": 7
+    },
+    {
+      "name": "maziwa",
+      "category": "Dairy",
+      "IsInCart": false,
+      "id": 8
+    },
+    {
+      "name": "mboga",
+      "category": "Produce",
+      "IsInCart": false,
+      "id": 9
+    },
+    {
+      "name": "mboga",
+      "category": "Produce",
+      "IsInCart": false,
+      "id": 10
     }
   ]
 }
